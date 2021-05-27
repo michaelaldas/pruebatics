@@ -2,3 +2,4 @@ Primera actividad de c++
 Pucese
 Esmeraldas 20 de mayo del 2021
 
+En esta asignatura, nos toca realizar una tarea de investigación formativa.
